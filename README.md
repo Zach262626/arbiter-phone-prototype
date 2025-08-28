@@ -76,10 +76,7 @@ The mobile app has been updated to exactly match the Laravel backend's database 
 
 ### Installation
 1. Clone the repository
-2. Navigate to the mobile app directory:
-   ```bash
-   cd arbiter-mobile/ArbiterMobile
-   ```
+2. Navigate to the mobile app directory
 3. Install dependencies:
    ```bash
    npm install
